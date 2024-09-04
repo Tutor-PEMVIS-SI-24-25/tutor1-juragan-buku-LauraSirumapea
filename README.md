@@ -64,8 +64,6 @@ no
 21
 4.1
 
-```
-
 **Output**:
 ```bash
 978-0130895929|C: A Reference Manual|Samuel Harbison, Guy Steele Jr.|2002|Pearson|no|50.19|11.05|21|4.1
